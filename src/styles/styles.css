@@ -1,0 +1,6 @@
+.atividade-item{
+    padding: 30px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.072);
+    margin: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.198);
+}
