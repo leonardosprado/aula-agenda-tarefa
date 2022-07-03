@@ -1,6 +1,15 @@
-.atividade-item{
+body{
     padding: 30px;
-    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.072);
-    margin: 60px;
-    border: 1px solid rgba(0, 0, 0, 0.198);
+    background-color: black;
+    color: #fff;
+}
+
+.atividade-item{
+    color: rgb(0, 45, 46);
+    background-color: rgb(0, 238, 255);
+    padding: 30px;
+    box-shadow: 1px 3px 10px 1px rgb(39 113 120 / 67%);
+    margin-bottom:40px;
+    border: 1px solid rgb(6, 153, 186);
+    border-radius: 8px;
 }
